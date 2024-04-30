@@ -506,7 +506,7 @@ class NavBar extends Component {
           <div className="nav-wrapper">
             <NavLink to="/" className="brand-logo">
               {/* <img className="header-logo" src={logo} alt="" /> */}
-              Christian Matchmaking
+              <p style={{fontSize: '16px'}}>Christian Matchmaking</p>
             </NavLink>
             <NavLinks />
           </div>
